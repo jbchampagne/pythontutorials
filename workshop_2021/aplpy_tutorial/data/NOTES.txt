@@ -1,0 +1,8 @@
+== Notes ==
+The YSO catalog came from the following sources obtained through the Aladin software:
+
+Catalog of Star-Forming Regions in the Galaxy (Avedisova, 2002)
+Catalogue of bright YSO candidates in ISOGAL (Felli+, 2002)
+A database of dense cores mapped in ammonia (Jijina+, 1999)
+Ammonia on YSOs IRAS sources (Molinari+ 1996)
+Catalogue of massive young stellar objects (Chan+, 1996)
